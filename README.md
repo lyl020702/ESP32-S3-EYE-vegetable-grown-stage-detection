@@ -1,4 +1,4 @@
-# Color Detection Example [[English]](./README.md)
+# 植物生长阶段检测
 
 目前该示例仅支持ESP32-S3-EYE开发板，若要使用其他开发板，需要自己修改按键输入逻辑配置。
 
